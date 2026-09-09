@@ -15,7 +15,8 @@ El dataset contiene 284.807 transacciones y 31 variables numéricas.
 Las variables V1–V28 fueron transformadas mediante Análisis de Componentes Principales (PCA) para proteger información sensible.
 
 Fuente:
-Kaggle – Credit Card Fraud Detection (Datos sintéticos) 
+Kaggle – Credit Card Fraud Detection 
+(Datos sintéticos) 
 https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
 ---
